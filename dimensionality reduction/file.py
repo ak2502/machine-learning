@@ -1,6 +1,4 @@
-# Name- Akanksha Sinha
-# Roll no.- B19125
-# Mobile no.- 9284606382, 9928960217(Whatsapp)
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
